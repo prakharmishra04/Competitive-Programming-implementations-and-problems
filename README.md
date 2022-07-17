@@ -1,1 +1,1 @@
-# Training
+# Competitive Programming using C++
