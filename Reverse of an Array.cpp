@@ -8,9 +8,7 @@ int main()
     for(int i=0 ; i<6; i++)
     {
         arr.push_back(i);
-        cout<<arr[i];
     }
-    for (auto i = arr.begin(); i != arr.end(); ++i)
-        cout << *i << " ";
+    cout<<arr[5];
     return 0;
 }
