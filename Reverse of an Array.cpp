@@ -40,6 +40,9 @@ int main()
      
     // To print the Reversed array
     printArray(arr, n);
+    vector <int> a;
+    a.push_back(1);
+    cout<<a[0]<<"\n";
      
     return 0;
 }
