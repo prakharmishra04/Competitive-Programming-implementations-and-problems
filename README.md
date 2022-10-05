@@ -1,5 +1,6 @@
 # Competitive Programming using C++
 Resource: https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=lbp
+Resource: SDE sheet(https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=lbp#Trie)
 Agenda:
     What is Competitive Programming and How to Prepare for It?
     Fast I/O: CPP,  Java, Python
