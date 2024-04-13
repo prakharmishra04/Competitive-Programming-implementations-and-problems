@@ -10,6 +10,10 @@ class Solution{
     // arr: input array
     // n: size of array
     //Function to rearrange  the array elements alternately.
+	// idea is storing two values at one location
+	// using bigger value stored as quotient and lower value as reminder
+	// using a dividend greater than all numbers in array.
+	
     void rearrange(long long *arr, int n) 
     { 
     	
